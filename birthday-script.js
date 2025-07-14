@@ -1,12 +1,12 @@
 const characters = [
   {
     name: "1day",
-    imgSrc: "images/1day.png",
+    imgSrc: "1day.png",
     message: "Ik you don't wanna talk with me but it's your birthday, and I told you I'd try to make it rememberable in a good way so bear with the few long ahh messages and the terrible flirting skills 😬🌷"
   },
   {
     name: "lalaland",
-    imgSrc: "images/lalaland.png",
+    imgSrc: "lalaland.png",
     message: `You're a mess of mischief wrapped in grace,
 A chaos I’d choose in any case.
 You're all-caps rage and sleepy sighs,
@@ -34,52 +34,52 @@ And I’d write a thousand poems just to feel this again.`
   },
   {
     name: "tz",
-    imgSrc: "images/tz.png",
+    imgSrc: "tz.png",
     message: "I hope today goes well for you and you're with the people who see what I saw —someone annoying, lowkey chaotic in the best way, brilliant, and one of the prettiest girl oh wait my bad lady (since you're 18 now 😂) ever. And if not, well ofc they're stoopid but what matters is that you're happy 💗"
   },
   {
     name: "500days",
-    imgSrc: "images/500days.png",
+    imgSrc: "500days.png",
     message: "I know I didn’t act like 'just friends' when we decided, but I wish I'd have cause maybe then we would still talk, so um sorry aboot that. I wasn’t trying to mess things up, I just liked talking to you more than I probably should have 😕"
   },
   {
     name: "b99",
-    imgSrc: "images/b99.png",
+    imgSrc: "b99.png",
     message: "Happy birthday to the person who can make someone simp for them while teasing the hell outta them like what are you ma'am?? a goddess?? (Nah that's too much tareef for you 😂) But it's unfair yk, there should be laws to save people like me from people like you 😭 (tho I don't mind it at all)"
   },
   {
     name: "mebeforeyou",
-    imgSrc: "images/mebeforeyou.png",
+    imgSrc: "mebeforeyou.png",
     message: "I dunno why but I do still think about you, sometimes when I see a reel and I so badly wanna share it to you but can't, sometimes when I listen to our spotify playlist, sometimes when I reread your amazing flirty roasting skills, which you have to admit was pretty fun part of our chats, sometimes when I stalk your account and read your poems and sometimes when all I want to do is text you but I don't cause ik you don’t wanna talk with me, but incase if you ever (and I do mean EVER) do, just text me and I'd reply ❤️‍🩹"
   },
   {
     name: "spidey-gwen",
-    imgSrc: "images/spidey-gwen.png",
+    imgSrc: "spidey-gwen.png",
     message: "Ik you warned me that none of your crushes last longer than 2months and you're not the 'lover girl' but I think I do know exactly when it changed... the stupid 3am text, and trust me if I could I'd take it back instantly 😞"
   },
   {
     name: "office",
-    imgSrc: "images/office.png",
+    imgSrc: "office.png",
     message: "The way you always called me annoying and yet smiled so hard (don't lie, cause ik you did) at my dumb words, it kinda felt like you calling me annoying was a secret code word for you saying I like talking with you, but again maybe I'm just delusional as someone pointed it out once before 🙄💘"
   },
   {
     name: "okjaanu",
-    imgSrc: "images/okjaanu.png",
+    imgSrc: "okjaanu.png",
     message: "Yk we're yet to do a few things, like go for a swimming where you inevitability cling onto me otherwise you'd drown ofc (I did look forward to teaching you tho ik it was a close to never possibility but still), yet to teach you guitar and in return receive hug and kisses which you promised, experience the orange theory irl, yet to bring tulips when meet and yet to take you out on a date 🫴🏻"
   },
   {
     name: "13-30",
-    imgSrc: "images/13-30.png",
+    imgSrc: "13-30.png",
     message: "If we ever start talking again, I hope it'd be good vibes only, cause apart from all the flirting and teasing, you can't deny that our vibes didn't match, it was like whattt HOLY KENTUCKY FRENCH FRIES FUMKIN SHEET. I did absolutely love talking with a lowkey fun person (hawa mai mat udna yeh sun ne ke baad 😂😞)"
   },
   {
     name: "10days",
-    imgSrc: "images/10days.png",
+    imgSrc: "10days.png",
     message: "Even though we stopped talking, I still think you're one of the coolest people I accidentally caught feelings for. And I still believe you're more than quite lovable <3"
   },
   {
     name: "yjhd",
-    imgSrc: "images/yjhd.png",
+    imgSrc: "yjhd.png",
     message: "I dunno if I still like you or not but ik that I didn't do well all of this just for nothing. I just want you to know that I miss you tulip (and dw you don’t have to say it back this time 🤍)"
   }
 ];
