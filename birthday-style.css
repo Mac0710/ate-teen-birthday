@@ -346,3 +346,24 @@ h1 {
   border-radius: 5px;
   cursor: pointer;
 }
+#characters-wrapper {
+  position: relative;
+  width: 100%;
+  max-width: 1200px; /* or whatever your base desktop width was */
+  margin: 0 auto;
+  height: 700px; /* fixed height or dynamic if needed */
+  transform-origin: top left;
+}
+
+/* Make it scale on smaller screens */
+@media (max-width: 768px) {
+  #characters-wrapper {
+    transform: scale(0.7);
+  }
+}
+
+@media (max-width: 480px) {
+  #characters-wrapper {
+    transform: scale(0.5);
+  }
+}
